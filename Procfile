@@ -1,1 +1,1 @@
-clock: python sample_code.py
+worker: python sample_code.py
